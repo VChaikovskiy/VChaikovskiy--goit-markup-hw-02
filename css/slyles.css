@@ -68,12 +68,10 @@ body {
     text-decoration: none;
 }
 .list:hover {
-    background-color: var(--color-main);
     color: var(--color-blue);
     }
 .list:focus {
     color: var(--color-main);
-    background-color: var(--color-blue);
 }
 .current ,.list:hover ,.list:focus {
     color: var(--color-blue);
